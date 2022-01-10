@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord-slash-command-handler": "^3.1.1",
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0"
+  },
+  "name": "handler_bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
